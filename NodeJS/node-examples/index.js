@@ -18,3 +18,5 @@ var rect = {
    solveRect(3,5);
    solveRect(0,5);
    solveRect(-3,5);
+
+   var rect = require('./rectangle');
